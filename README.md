@@ -30,7 +30,6 @@ http://localhost:5000/healthy
 
 It should return:
 
-![](img/docs/11182024-fastapi-endpoint-working.png)
 ![](/img/docs/11182024-fastapi-endpoint-working.png)
 
 Checking the docs:
